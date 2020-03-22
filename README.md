@@ -15,12 +15,12 @@
 ## Brainstorming :
 
 #### Post-its pour générer un maximum d'idées, donc des "crazy ideas" :
-<img src="./IHM_brainstorming_post_its.jpg" width="800" height="500">
+<img src="./IHM_brainstorming_post_its.jpg" width="500" height="700">
 
 
 #### MindMap pour relier entre eux les concepts mis en avant par les post-its :
 
-<img src="./IHM_MingMap.jpg" width="800" height="500">
+<img src="./IHM_MingMap.jpg" width="700" height="500">
 
 
 #### Les idées retenues :
@@ -28,5 +28,7 @@
 (Ajouter les concepts retenus)
 
 ## Prototypes vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cbIukMT3IC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (Ajouter les liens des vidéos)
