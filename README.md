@@ -15,12 +15,13 @@
 ## Brainstorming :
 
 #### Post-its pour générer un maximum d'idées, donc des "crazy ideas" :
+<img src="./IHM_brainstorming_post_its.jpg" width="800" height="500">
 
-![Posts its brainstorming](IHM_brainstorming_post_its.jpg)
 
 #### MindMap pour relier entre eux les concepts mis en avant par les post-its :
 
-![MindMap](IHM_MingMap.jpg)
+<img src="./IHM_MingMap.jpg" width="800" height="500">
+
 
 #### Les idées retenues :
 
